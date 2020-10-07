@@ -1,0 +1,1 @@
+Testing isFallback in getStaticPaths
